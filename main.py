@@ -68,4 +68,4 @@ list_of_shapes= [eqtriangle(), square(), hexagon(), nonagon(), dodecagon()]
 for polygon_functions in list_of_shapes:
   polygon_functions
 
-window.exitonclick
+window.exitonclick()
